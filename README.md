@@ -21,7 +21,7 @@ Armida Ice Cream is a deliciously interactive front-end website showcasing:
 
 ## 📸 Preview
 
-![Ice Cream Website Screenshot](ice-cream.JPG)
+![Ice Cream Website Screenshot](eskrim.JPG)
 
 ## 🧁 About Me
 
