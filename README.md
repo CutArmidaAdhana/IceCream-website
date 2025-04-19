@@ -1,31 +1,38 @@
-🍦 Armida Ice Cream Website 🍓
-Welcome to Armida Ice Cream! 💖 Where every scoop is made with love and happiness! Come join us on this sweet journey of creamy delights and mouth-watering flavors. 😋🍨
+Hi there~! Welcome to my **Ice Cream Website Project** 🍦✨  
+This is a sweet and delightful landing page made with lots of 💕 love and attention to cute design! 🌷
 
-🦄 Features
-Home Sweet Home: A magical landing page with a full-screen image and a fun welcome message. 🍬
+## 🍧 About This Project
+Armida Ice Cream is a deliciously interactive front-end website showcasing:
+- Aesthetic pink & pastel theme 🎨
+- Google Fonts (Dancing Script, Lora, and Poppins) for a charming typography feel ✍️
+- Smooth scroll animation with AOS 🪄
+- Responsive design — works on all devices 📱💻
 
-Tasty Menu: Our delicious ice creams on display with gorgeous photos, each flavor more tempting than the last! 🍓🍫
+## 💖 Technologies Used
+- HTML5 + CSS3  
+- Bootstrap 4  
+- AOS (Animate on Scroll)  
+- FontAwesome + RemixIcons  
+- GitHub Pages for free hosting  
 
-About Us: Discover our sweet story, the passion behind Armida Ice Cream, and how we sprinkle joy in every scoop. ✨
+## 🌐 Live Demo
+✨ Check out the live version here:  
+[https://CutArmidaAdhana.github.io/ice-cream-website](https://CutArmidaAdhana.github.io/IceCream-website) 🍓
 
-Contact Us: Reach out to us directly for questions or collaboration, or just to say hi! 🌟
+## 📸 Preview
 
-Responsive Design: Perfectly designed for any device, so you can enjoy it anywhere! 💻📱
+![Ice Cream Website Screenshot](ice-cream.JPG)
 
-Cute Animations: Smooth scroll effects and cute interactive elements to keep the fun going! 🥰
+## 🧁 About Me
 
-📸 Screenshots
-Here’s a sneak peek of how the website looks! 😍 (eskrim.JPG)
+I'm **Cut Armida Adhana**, a passionate Front-End Developer who loves to create beautiful, cute, and meaningful web experiences. 🌸  
+I enjoy combining clean code with playful design elements like pastel colors and smooth animations!  
 
+Let’s connect! 💬  
+[🌷 Instagram](https://www.instagram.com/ctrmdhn_)  
+[🌸 TikTok](https://www.tiktok.com/@cutarmidaadhanaa)  
+[🌼 My Portfolio](https://cutarmidaadhana.github.io/web-portofolio/)
 
-🌟 Portfolio
-Check out the live version of the website here:
+---
 
-My Portfolio ✨
-
-💖 Let's Connect! Follow Us on Social Media
-We love connecting with you! Follow us for updates, promos, and more sweet fun. 🍦✨
-
-Instagram: @ctrmdhn_ 🍓
-
-TikTok: @cutarmidaadhanaa 🎥
+> 🍡 Built with 💗 by Cut Armida Adhana
