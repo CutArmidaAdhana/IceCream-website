@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Armida Ice Cream </title>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body onload="scrollToTop()">
+
+  <!-- Navbar -->
+  <header>
+    <nav>
+        <div class="logo">Armida Ice Cream 🍦</div>
+      <ul class="nav-links">
+        <li><a href="#home"><strong>Home</strong></a></li>
+        <li><a href="#menu"><strong>Menu</strong></a></li>
+        <li><a href="#about"><strong>About</strong></a></li>
+        <li><a href="#contact"><strong>Contact</strong></a></li>
+      </ul>
+      <div class="burger" id="burger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home">
+    <div class="hero-image">
+      <div class="hero-content">
+        <h1>Discover Your Perfect Ice Cream</h1>
+        <p>Taste the sweetest, creamiest ice creams made just for you!</p>
+        <button class="cta-button">Browse Our Flavors</button>
+      </div>
+    </div>
+  </section>   
+
+  <!-- Menu Section -->
+  <section id="menu">
+    <h2>Our Sweet Creations 🍭</h2>
+    <div class="menu-items">
+      <div class="menu-item">
+        <a href="https://link-to-vanilla-ice-cream-details.com">
+          <img src="vanilla.jpg" alt="Vanilla Ice Cream">
+        </a>
+        <h3>🍦 Vanilla Dream</h3>
+        <p>Classic vanilla with a sprinkle of magic ✨</p>
+      </div>
+      <div class="menu-item">
+        <a href="https://link-to-berry-bliss-details.com">
+          <img src="strawberry.jpg" alt="Strawberry Ice Cream">
+        </a>
+        <h3>🍓 Berry Bliss</h3>
+        <p>Fresh strawberries blended into creamy goodness 💗</p>
+      </div>
+      <div class="menu-item">
+        <a href="https://link-to-chocolate-fudge-details.com">
+          <img src="coklattt.jpg" alt="Chocolate Ice Cream">
+        </a>
+        <h3>🍫 Chocolate Fudge</h3>
+        <p>A rich chocolate treat that melts in your mouth 😋</p>
+      </div>
+    </div>
+  </section>
+  
+  
+
+  <!-- About Section -->
+  <section id="about">
+    <div class="about-container">
+      <div class="about-text">
+        <h2>About Us</h2>
+        <p>We believe in creating joy through every scoop. Our ice creams are made with love, passion, and the finest ingredients.</p>
+        <p>Founded in 2020, Armida Ice Cream started as a small family business with a big dream — to spread happiness through delightful frozen treats. Inspired by childhood memories and endless experiments in our cozy kitchen, we’ve crafted flavors that not only taste amazing but also bring smiles to faces of all ages. 🍦💕</p>
+        <p>From fruity favorites to chocolatey indulgences, each scoop tells a story of sweetness and warmth. Join us in our journey to make the world a little more magical, one cone at a time. ✨🍓</p>
+      </div>
+    </div>
+  </section>
+  
+  
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Us 💌</h2>
+    <div class="contact-wrapper">
+      <!-- Kontak Info di kiri -->
+      <div class="contact-info">
+        <p>Have questions or want to collaborate? Don’t be shy, let’s connect! 💖</p>
+        <p>You can contact us via:</p>
+        <ul>
+          <li>📧 <strong>Email:</strong> <a href="mailto:cutarmidaadhana19@gmail.com">cutarmidaadhana19@gmail.com</a></li>
+          <li>📍 <strong>Location:</strong> Jl. Bahagia No. 21, Strawberry Town, Ice Cream Land</li>
+        </ul>
+  
+        <p>Follow us on social media:</p>
+        <ul>
+          <li>🍦 <strong>Instagram:</strong> <a href="https://instagram.com/ctrmdhn_" target="_blank">@ctrmdhn_</a></li>
+          <li>🎥 <strong>TikTok:</strong> <a href="https://tiktok.com/@cutarmidaadhanaa" target="_blank">@cutarmidaadhanaa</a></li>
+        </ul>
+      </div>
+  
+      <!-- Form di kanan -->
+      <div class="contact-form">
+        <h3 style="color: #d44cc2;">🍓 Send Us a Sweet Message</h3>
+        <form>
+          <input type="text" placeholder="Your Name 💕" required>
+          <input type="email" placeholder="Your Email 📧" required>
+          <textarea placeholder="Write your message here 🍭" rows="4" required></textarea>
+          <button type="submit">💌 Send Message</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  
+   
+
+  <footer>
+    <p>&copy; 2025 Armida Ice Cream | Cut Armida Adhana</p>
+  </footer>
+
+  <!-- Script -->
+  <script>
+    const burger = document.getElementById('burger');
+    const navLinks = document.querySelector('.nav-links');
+
+    burger.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+
+    function scrollToTop() {
+      window.scrollTo(0, 0);
+    }
+  </script>
+</body>
+</html>
